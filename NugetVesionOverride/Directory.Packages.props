@@ -1,0 +1,6 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="1.0.0" />
+    <PackageVersion Include="Microsoft.Extensions.Logging" Version="2.0.0" />
+  </ItemGroup>
+</Project>
